@@ -246,6 +246,11 @@ hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weather-renewed.pw.toml"
 hash = "a58a37f8dbd119032390fd1f6794d7b2f9a71c69c4e10e3b5a8b99e71bd9c852"
 metafile = true
