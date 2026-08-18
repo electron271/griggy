@@ -1,0 +1,13 @@
+name = "griggy"
+author = "bont"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "76ed4cb2144a24a93370dce5bd87e80fe49aafff92b08df49e30778434950b28"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

@@ -1,0 +1,13 @@
+name = "Skeleton Tactics"
+filename = "skeleton_t-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNh8aolO/versions/4cIXepib/skeleton_t-1.0.0.jar"
+hash-format = "sha512"
+hash = "b5710ed604b7aef9c8213ca0cc2ac43f6796b332957adf1ece649cbdad1a305fd04a20e056409dbd0e4f251a1f293ba0f34cafc2da9252993911dec97f1987c3"
+
+[update]
+[update.modrinth]
+mod-id = "KNh8aolO"
+version = "4cIXepib"
