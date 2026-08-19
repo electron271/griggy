@@ -201,11 +201,6 @@ hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "368969d82c72b90e1f9a9ff70007d9a7b2fa0e2b075e1f07221badc562ea03e9"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
 hash = "1b89507fb7bc8c2ed11c020a9014ce4a6552e7d0fe0522f6c1107a27e9c89f07"
 metafile = true
