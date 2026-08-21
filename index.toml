@@ -141,6 +141,11 @@ hash = "bea9328ce6f08d0b603abde338d69db2260c1c3201b464e0d895d225517f1fc4"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
@@ -251,13 +256,13 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/full-brightness-toggle.pw.toml"
-hash = "26569c9601e7490fff75ed2f556badced7f25177bebd4fad0c8789f386a4672a"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "26569c9601e7490fff75ed2f556badced7f25177bebd4fad0c8789f386a4672a"
 metafile = true
 
 [[files]]
@@ -468,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2845b7367289659770e8476125f5949c5705790e4a9335b10c82f433a24c6d76"
-metafile = true
-
-[[files]]
-file = "mods/tameable-foxes.pw.toml"
-hash = "6df736c79e6b1ff7fd2320d30b5519c995419826f2e5cf84ad414a890f405e4a"
 metafile = true
 
 [[files]]
