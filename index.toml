@@ -381,6 +381,11 @@ hash = "26569c9601e7490fff75ed2f556badced7f25177bebd4fad0c8789f386a4672a"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "678e0af0db18575a92c9d14b853a15574af4f869091dcb045165fad731d19c67"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
@@ -608,6 +613,16 @@ metafile = true
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "13415590b9e3f8aa1ca0cf33be26d697fa4b00de9c29e999815cadd37cf17175"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "51c911d05e42b074fea01a74cb05050fa15164eed8a5d137cf0f64ecc16ed861"
 metafile = true
 
 [[files]]
