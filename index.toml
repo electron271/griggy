@@ -51,6 +51,11 @@ hash = "93c413ff9f724a5e296b5fd628e652af46bef38bcc2d9f720546797c96700f52"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
 metafile = true
 
 [[files]]
@@ -603,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "1195de47e170215af4a3e946d29953605f5380c01e28cd50ac7061a59b77d209"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "22729316e54e8a314171281417d7429e7d554be0ebb0c87a5b55c949c5972757"
 metafile = true
 
 [[files]]
