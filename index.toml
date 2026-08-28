@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
+hash = "793e70a07961b1670ba13dcdfe2c1cfb1379df52485adc2d3ba5db128e9536a6"
 metafile = true
 
 [[files]]
@@ -48,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "93c413ff9f724a5e296b5fd628e652af46bef38bcc2d9f720546797c96700f52"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
 metafile = true
 
 [[files]]
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
+hash = "318c96390db6b23f50f5f7dea4db0f8394a47edf96dff25b8a0b241956790114"
 metafile = true
 
 [[files]]
@@ -337,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-ru.pw.toml"
-hash = "130b53a1e1d0ba2ba94dcf6d3556d8550d644ca975141b46ab2608d2a6ff3a57"
+hash = "e3f9f48604105ea27b57bead64835e80657c694f8a58ad794b3ceef175bd425c"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
+hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "08511bb15a0e73377181df7a13caa6546d685e9c55ab6e8a20aeb32c4ef1b6d1"
+hash = "678e0af0db18575a92c9d14b853a15574af4f869091dcb045165fad731d19c67"
 metafile = true
 
 [[files]]
@@ -447,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b0bff9917d9b90cfbc76f7946f1cbf62a25ef516a2410949d22c6a16218fc7bf"
+hash = "1eb4094b466679316208fa85e5a855fc71945cfd639ff7f831586452b0cc3ad3"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "ff49639d0abd0d4ab1b706685ab9e9ab0f36912ec00c1f90615122290d9644dc"
+hash = "6d211d9120c2f1938908f8163b75105d1540ee7ea5e11538728653883e021f30"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6e3829e3de78efb1490e738fcc66b1ab7869d8f5a67400ca6028a001d347eebf"
+hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
 metafile = true
 
 [[files]]
@@ -607,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
+hash = "1195de47e170215af4a3e946d29953605f5380c01e28cd50ac7061a59b77d209"
 metafile = true
 
 [[files]]
@@ -652,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "45e4281b8a230daad7484b17eda0caa7fd803b94fc373fe92fcf9bf34f61ec55"
+hash = "2845b7367289659770e8476125f5949c5705790e4a9335b10c82f433a24c6d76"
 metafile = true
 
 [[files]]
@@ -687,12 +692,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
+hash = "36e0e147f192c7991ee230bf492728042602236d5811619bbb16f8d5d1f7771f"
 metafile = true
 
 [[files]]
