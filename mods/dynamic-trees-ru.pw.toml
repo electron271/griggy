@@ -1,13 +1,13 @@
 name = "Dynamic Trees - Regions Unexplored"
-filename = "dtru-1.1.1.jar"
+filename = "dtru-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IOcN8dvy/versions/mjiUwbRt/dtru-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/IOcN8dvy/versions/MKm2stGO/dtru-1.1.2.jar"
 hash-format = "sha512"
-hash = "d4bb4d58b53666f5c406a9bbed1bc9581d63bb5b55347103bccfe5664fc14b01390156fdef9f907eb3cdf85113d4444223301529974a26d013032f82a407e891"
+hash = "5e57d5f7330baaf326b705c6c96747f35cba29e3bb8634d61beebdf231eea350cb8027c25302c21d63020d2301b03318a28514ad0eb763f007c19cfaa48af027"
 
 [update]
 [update.modrinth]
 mod-id = "IOcN8dvy"
-version = "mjiUwbRt"
+version = "MKm2stGO"
